@@ -1,5 +1,5 @@
 C is a powerful general-purpose programming language.
-It can be used to develop software like operating systems, 
-databases, compilers, and so on. This projects covers the concepts of binary trees!
+It can be used to develop software like operating systems, databases,
+compilers, and so on. This projects covers the concepts of binary trees.
 
-I, Bebe Phakoe will be completing this task alone
+I, ALX student, Beloved Phakoe will be completing this task alone.
